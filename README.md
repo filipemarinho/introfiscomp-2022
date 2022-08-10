@@ -9,22 +9,22 @@ Estágio PAE - Material de apoio para as aulas e projetos
 
 ## Instalação
 
-# No linux:
+### No linux:
 
 Instalaçao do compilador:
 ```
 sudo apt install gfortran
 ```
 
-# No Windows:
+### No Windows:
 
 No windows 10/11 instalar o Ubuntu para WSL, abrir o terminal do Ubuntu e seguir as intruções para linux.
 
 Tutorial em breve
 
 --- 
-Extras:
+## Extras:
 
 - [Site do laboratório de computação do IFSC](http://www.lef.ifsc.usp.br/index.php/computacional) - Informações sobre o acesso remoto e as salas do lab de computação
-- [Repositório do Heitor introfiscomp-2018] (https://github.com/heitorPB/fiscomp-2018)
+- [Repositório do Heitor introfiscomp-2018](https://github.com/heitorPB/fiscomp-2018)
 - [Gelos](https://gelos.club/) Grupo de Extensão em Livre e Open Source - ICMC/USP
