@@ -5,7 +5,7 @@ Estágio PAE - Material de apoio para as aulas e projetos
 ---
 ## Recomendações:
  
- É legal utilizar um editor de código com os pacotes da linguagem fortran, para ter acesso ao *highlight* da sintaxe e ao *linting*. Bons exemplos: [VSCode](https://code.visualstudio.com/) ou até o bom e velho Vim.
+ É legal utilizar um editor de código com os pacotes da linguagem fortran, para ter acesso ao *highlight* da sintaxe e ao *linting*. Bons exemplos: [VSCode](https://code.visualstudio.com/) ou o bom e velho Vim.
 
 ## Instalação
 
@@ -19,6 +19,9 @@ sudo apt install gfortran
 ### No Windows:
 
 No windows 10/11 instalar o Ubuntu para WSL, abrir o terminal do Ubuntu e seguir as intruções para linux.
+
+[Instalação do WSL](https://docs.microsoft.com/pt-br/windows/wsl/install)
+
 
 Tutorial em breve
 
