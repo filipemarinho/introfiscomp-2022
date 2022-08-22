@@ -91,5 +91,6 @@ Você verá a saída:
 ## Extras:
 
 - [Site do laboratório de computação do IFSC](http://www.lef.ifsc.usp.br/index.php/computacional) - Informações sobre o acesso remoto e as salas do lab de computação
+- [Livro Texto](https://books.google.com/books/about/Computational_Physics.html?id=ngUpAQAAMAAJ)
 - [Repositório do Heitor introfiscomp-2018](https://github.com/heitorPB/fiscomp-2018)
 - [Gelos](https://gelos.club/) Grupo de Extensão em Livre e Open Source - ICMC/USP
