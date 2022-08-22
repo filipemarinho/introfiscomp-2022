@@ -11,7 +11,7 @@ Estágio PAE - Material de apoio para as aulas e projetos
 
 ### No linux:
 
-1. Instalação do compilador, abra um terminal `Ctrl+Alt+t` :
+1. Instalação do compilador, abra um terminal (em algumas sistemas o atalho é `Ctrl+Alt+t`) :
 
  ```
   sudo apt install gfortran
@@ -34,7 +34,7 @@ Estágio PAE - Material de apoio para as aulas e projetos
 2.  Abrir o terminal do Ubuntu no WSL e seguir as instruções para linux acima.
  
  
-Tutorial em vídeo breve
+[Versão em video do tutorial](https://youtu.be/-WKu8DxIvQ0)
 
 Caso esteja usando uma versão antiga do Windows existe um [tutorial na página do LEF](https://www.youtube.com/watch?v=wcTxk3xM4X4). 
 
@@ -51,7 +51,45 @@ Uma boa opção é instalar um bom editor de texto como o VSCode e [configurar o
 
 ## Utilização
 
-Fortran é uma linguagem compilada! Isso quer dizer que depois de escrever seu código em um arquivo `.f90` você terá que usar o compilador, como o gfortran, para gerar um arquivo executável, que normlmente não tem extensão, para então rodar o seu código.
+Não é necessário instalar o fortran nos computadores do lab de computação!
+
+Fortran é uma linguagem compilada! Isso quer dizer que depois de escrever seu código em um arquivo `.f90` você terá que usar o compilador, como o gfortran, para gerar um arquivo executável, que normalmente não tem extensão, para então rodar o seu código.
+
+### Utilização do terminal
+
+Utilizando editores de texto para terminal:
+
+O mais simples é o `nano`, ele já vem instalado por padrão nas distribuições linux. Para utilizar utilize o comando `nano ` seguido do nome do arquivo de texto e extensão. Caso o arquivo com o nome especificado não exista ele vai ser criado automaticamente.
+Exemplo:
+
+```
+ nano documento.txt
+```
+
+Um terminal linux interpreta a linguagem [bash](https://pt.wikipedia.org/wiki/Bash) para executar seus comandos. O terminal pode não lidar bem com espaços ou acentos no nome dos arquivos então evite a utilização.
+
+No canto inferior da tela é possível ver a ajuda de comandos do nano, note que `^` se refere a tecla `Ctrl`. Por exemplo, para fechar o editor pressione `Ctrl+x`, depois disso aparecerá um prompt para salvar as alterações caso tenham sido feitas.  
+
+[Tutorial nano](https://terminalroot.com.br/2015/10/o-editor-de-texto-nano.html)
+
+Comandos importantes no terminal:
+
+- `ls`: lista os arquivos no diretório
+- `pwd`: mostra o caminho do diretório atual
+- `cd`: muda de diretório, `cd ..` volta pro diretório anterior, `cd Documentos` entra no diretório Documentos
+
+Caso tenha dúvida sobre o que um comando faz, utilize a ajuda digitando `man ` e o nome do comando. Exemplo `man ls` retorna:
+
+```
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+```
 
 ### Exemplo Hello World
 
@@ -94,3 +132,5 @@ Você verá a saída:
 - [Livro Texto](https://books.google.com/books/about/Computational_Physics.html?id=ngUpAQAAMAAJ)
 - [Repositório do Heitor introfiscomp-2018](https://github.com/heitorPB/fiscomp-2018)
 - [Gelos](https://gelos.club/) Grupo de Extensão em Livre e Open Source - ICMC/USP
+- [Fortran em 100 segundos (ou quase)](https://youtu.be/NMWzgy8FsKs)
+- [Terminal linux - Bash em 100 segundos](https://youtu.be/I4EWvMFj37g)
