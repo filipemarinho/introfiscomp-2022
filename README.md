@@ -11,6 +11,8 @@ Estágio PAE - Material de apoio para as aulas e projetos
 
 ### No linux:
 
+OBS: Não é necessário instalar o fortran nos computadores do lab de computação!
+
 1. Instalação do compilador, abra um terminal (em algumas sistemas o atalho é `Ctrl+Alt+t`) :
 
  ```
@@ -50,8 +52,6 @@ As instruções podem ser encontradas no [site do LEF](http://www.lef.ifsc.usp.b
 Uma boa opção é instalar um bom editor de texto como o VSCode e [configurar o acesso por SSH](https://code.visualstudio.com/docs/remote/ssh) por lá.
 
 ## Utilização
-
-Não é necessário instalar o fortran nos computadores do lab de computação!
 
 Fortran é uma linguagem compilada! Isso quer dizer que depois de escrever seu código em um arquivo `.f90` você terá que usar o compilador, como o gfortran, para gerar um arquivo executável, que normalmente não tem extensão, para então rodar o seu código.
 
