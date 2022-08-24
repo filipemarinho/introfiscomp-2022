@@ -128,9 +128,11 @@ Você verá a saída:
 ---
 ## Contato
 Filipe Marinho
+
 filipemarinho @ usp .br
 
 Também estou no Telegram nos grupos oficiais do IFSC
+
 ---
 ## Extras:
 
