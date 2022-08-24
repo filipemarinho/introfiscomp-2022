@@ -125,7 +125,13 @@ Você verá a saída:
 ```
  Hello, World!
 ```
---- 
+---
+## Contato
+Filipe Marinho
+filipemarinho @ usp .br
+
+Também estou no Telegram nos grupos oficiais do IFSC
+---
 ## Extras:
 
 - [Site do laboratório de computação do IFSC](http://www.lef.ifsc.usp.br/index.php/computacional) - Informações sobre o acesso remoto e as salas do lab de computação
