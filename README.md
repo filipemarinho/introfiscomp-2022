@@ -106,6 +106,8 @@ program hello
 end program hello
 ```
 
+Não esqueça de salvar as alterações no arquivo!
+
 Em um terminal no mesmo diretório do arquivo faça a compilação:
 
 ``` bash
