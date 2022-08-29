@@ -5,7 +5,9 @@ Estágio PAE - Material de apoio para as aulas e projetos
 ---
 ## Recomendações:
  
- É legal utilizar um editor de código com os pacotes da linguagem fortran, para ter acesso ao *highlight* da sintaxe e ao *linting*. Bons exemplos: [VSCode](https://code.visualstudio.com/) ou o bom e velho Vim.
+ É legal utilizar um editor de código com os pacotes da linguagem fortran, para ter acesso ao *highlight* da sintaxe e ao *linting*. Bons exemplos: [VSCode](https://code.visualstudio.com/), Nano ou o bom e velho Vim.
+
+Não esqueça de sempre salvar as suas alterações no arquivo de texto com `Ctrl+s` no VSCode, no nano `Ctrl+o` e `:w` no modo de comandos do vim.
 
 ## Instalação
 
