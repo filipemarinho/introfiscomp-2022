@@ -146,3 +146,5 @@ Também estou no Telegram nos grupos oficiais do IFSC
 - [Gelos](https://gelos.club/) Grupo de Extensão em Livre e Open Source - ICMC/USP
 - [Fortran em 100 segundos (ou quase)](https://youtu.be/NMWzgy8FsKs)
 - [Terminal linux - Bash em 100 segundos](https://youtu.be/I4EWvMFj37g)
+
+-[Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile](https://youtu.be/f4ekifyijIg)
