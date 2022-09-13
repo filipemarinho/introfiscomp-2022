@@ -11,7 +11,8 @@ program readwrite
    print *, "Recebido: N", N
 		
    !Cria um novo arquivo data.dat, dando o apelido 1
-   open(1,file = 'data.dat', status='new')
+   open(1,file = 'data.dat', status='new') 
+   !status='new' espera que o arquivo não existe para ser criado trocar por 'replace' permite que você sobrescreva o arquivo
 
    write(1,*) N
    close(1) !não esqueça de fechar depois
