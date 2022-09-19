@@ -132,13 +132,18 @@ Você verá a saída:
 ---
 # Projeto 1
 
-## Crie um diretório como especificado no trabalho, no servidor do basalto utilizando a máquina física ou o acesso remoto via SSH. Utilize o comando `mkdir proj1_#usp` na pasta certa, substituindo # pelo seu número USP.
+# Preparação para entrega dos projetos
 
-## Use o comando `ls -la` os primeiros caracteres identificam as permissões do diretório
+Crie um diretório como especificado no trabalho, no servidor do basalto utilizando a máquina física ou o acesso remoto via SSH. Utilize o comando `mkdir proj1_#usp` na pasta certa, substituindo # pelo seu número USP.
 
-## Altera as proteções para que outras pessoas não possam ler seu diretório. Utilize o comando `chmod -g -o -w nomedapasta`, faça isso um diretório antes da pasta que criou e troque `nomedapasta` pelo nome do seu diretório.
+Use o comando `ls -la` os primeiros caracteres identificam as permissões do diretório
 
-## Use o comando `ls -la` novamente e compare os primeiros caracteres para ver a mudança de permissão.
+Altera as proteções para que outras pessoas não possam ler seu diretório. Utilize o comando `chmod -g -o -w nomedapasta`, faça isso um diretório antes da pasta que criou e troque `nomedapasta` pelo nome do seu diretório.
+
+Use o comando `ls -la` novamente e compare os primeiros caracteres para ver a mudança de permissão.
+
+Obs: você pode fazer isso só na hora de entregar o projeto.
+
 
 ---
 ## Contato
