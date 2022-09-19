@@ -134,7 +134,8 @@ Você verá a saída:
 
 # Preparação para entrega dos projetos
 
-Crie um diretório como especificado no trabalho, no servidor do basalto utilizando a máquina física ou o acesso remoto via SSH. Utilize o comando `mkdir proj1_#usp` na pasta certa, substituindo # pelo seu número USP.
+Crie um diretório como especificado no trabalho, no servidor do basalto utilizando a máquina física ou o acesso remoto via SSH. 
+No basalto acesse a pasta especificada no pdf usando `cd /public/IntroFisComp22/projeto1` Utilize o comando `mkdir proj1_#usp` nessa pasta, substituindo `#usp` pelo seu número USP.
 
 Use o comando `ls -la` os primeiros caracteres identificam as permissões do diretório
 
