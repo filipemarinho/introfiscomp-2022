@@ -143,6 +143,11 @@ Use o comando `ls -la` novamente e compare os primeiros caracteres para ver a mu
 
 Obs: você pode fazer isso só na hora de entregar o projeto.
 
+## Tutoriais anteriores
+
+Vejam o material das turmas passadas:
+
+[Como esse do Heitor que dá uma ideia geral da disciplina](https://gist.github.com/heitorPB/abc750898443d6302b0b733c8a87faa5)
 
 ---
 ## Contato
