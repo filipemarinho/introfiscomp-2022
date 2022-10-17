@@ -150,6 +150,15 @@ Vejam o material das turmas passadas:
 [Como esse do Heitor que dá uma ideia geral da disciplina](https://gist.github.com/heitorPB/abc750898443d6302b0b733c8a87faa5)
 
 ---
+# Gnuplot
+
+[Material do Heitor com vários links](https://gist.github.com/heitorPB/abc750898443d6302b0b733c8a87faa5#gnuplot)
+
+[Tutorial oficial do gnuplot](http://gnuplot.info/docs_5.2/Gnuplot_5.2.pdf)
+
+[Livros de gnuplot](http://www.gnuplot.info/books.html)
+
+---
 ## Contato
 Filipe Marinho
 
